@@ -71,6 +71,4 @@ The project requires the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
+
